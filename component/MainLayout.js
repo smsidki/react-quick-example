@@ -5,7 +5,7 @@ class MainLayout extends React.Component {
 				<header>
 					<div className="logo">
 						<img
-							src="everything-about-web.png"
+							src="image/everything-about-web.png"
 							width="394"
 							height="146"
 							alt="everything about web"
